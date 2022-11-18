@@ -1,4 +1,5 @@
 # PyCube
 Rubik's Cube training/solving tool in Python
 
-All of the code is contained in tp.py, simply run that file and the app will start.
+The code is contained in tp.py with graphics code being in cmu_112_graphics.py.
+Note: pillow and requests modules must be installed
